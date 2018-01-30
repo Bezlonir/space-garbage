@@ -21,7 +21,11 @@ h1 {
 }
 
 .splashContainer {
-  display:block;
+  
+}
+
+.container {
+  display:flex;
 }
 
 #splash {
