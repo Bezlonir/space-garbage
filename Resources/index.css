@@ -23,7 +23,7 @@ h1 {
 
 #splash {
   position:relative;
-  background-image: url("../Images/orion_nebula.jpg");
+  background-image: url("./Images/orion_nebula.jpg");
   background-size:cover;
   text-align:center;
   background-color: rgba(50,30,40,1);
